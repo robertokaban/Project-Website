@@ -33,6 +33,9 @@
 							<a href="tampil-mahasiswa.php"><span class="glyphicon glyphicon-user"></span> Mahasiswa</a>
 						</li>
             <li>
+							<a href="tampil-dosen.php"><span class="glyphicon glyphicon-user"></span> Dosen</a>
+						</li>
+            <li>
 							<a href="tampil-user.php"><span class="glyphicon glyphicon-registration-mark"></span> User</a>
 						</li>
             <li>
