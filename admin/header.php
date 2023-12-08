@@ -38,9 +38,13 @@
             <li>
 							<a href="tampil-user.php"><span class="glyphicon glyphicon-registration-mark"></span> User</a>
 						</li>
-            <li>
-							<a href="../logout.php"><span class="glyphicon glyphicon-lock"></span> Logout</a>
-						</li>
+            <li class="dropdown">
+            <a href="tampil-user.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-user"></span> Hallo ( <?php echo $_SESSION['username'];?> )<span class="caret"></span></a>
+              <ul class="dropdown-menu">
+              <li><a href="#"><span class="glyphicon glyphicon-book"></span> Profile</a></li>
+              <li><a href="../logout.php"><span class="glyphicon glyphicon-lock"></span> Logout</a></li>
+              </ul>
+          </li>
           </ul>
         </div>
       </div>
