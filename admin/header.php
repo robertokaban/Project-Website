@@ -1,14 +1,17 @@
 <!doctype HTML>
 <html>
 <head>
-    <title>ITB Indonesia</title>
-    <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../DataTables/datatables.min.css" rel="stylesheet">
-    <style>
-      body {
-        padding-top: 60px;
-      }
-		</style>
+  <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ITB Indonesia</title>
+  <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../bootstrap/css/dataTables.bootstrap.min.css" rel="stylesheet">
+  <link href="../bootstrap/css/styles.css" rel="stylesheet">
+  <style>
+    body {
+      padding-top: 60px;
+    }
+  </style>
 </head>
 <body>
     
@@ -41,7 +44,7 @@
             <li class="dropdown">
             <a href="tampil-user.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-user"></span> Hallo ( <?php echo $_SESSION['username'];?> )<span class="caret"></span></a>
               <ul class="dropdown-menu">
-              <li><a href="#"><span class="glyphicon glyphicon-book"></span> Profile</a></li>
+              <li><a href="profile.php"><span class="glyphicon glyphicon-book"></span> Profile</a></li>
               <li><a href="../logout.php"><span class="glyphicon glyphicon-lock"></span> Logout</a></li>
               </ul>
           </li>

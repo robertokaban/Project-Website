@@ -53,7 +53,7 @@
             ?>
 
 
-        <table id="dataTables" class="table table-bordered">
+        <table  class="table table-bordered table-hover" id="data-table">
         <thead>
             <tr>
                 <th>Username</th><th>Email</th>

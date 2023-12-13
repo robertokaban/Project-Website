@@ -53,7 +53,7 @@
             ?>
 
 
-        <table id="dataTables" class="table table-bordered">
+        <table  class="table table-bordered table-hover" id="data-table">
         <thead>
             <tr>
                 <th>NIM</th><th>Nama</th><th>Jenis Kelamin</th><th>ALamat</th>

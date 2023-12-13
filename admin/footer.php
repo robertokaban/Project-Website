@@ -1,6 +1,6 @@
 <div class="row">
 			<div class="col-md-12">
-				<center>Copyright &copy <?php echo date ('Y');?> Website Institut Teknologi dan Bisnis Indonesia, design with <span class="glyphicon glyphicon-heart"></span> by NAMA_ANDA<br/>
+				<center>Copyright &copy <?php echo date ('Y');?> Website Institut Teknologi dan Bisnis Indonesia, design with <span class="glyphicon glyphicon-heart"></span> by Roberto Kaban<br/>
 				<a href="index.php">Home </a> | 
 				<a href="about.php">About Us </a> | 
 				<a href="contact.php">Contact Us </a> <br>
@@ -13,13 +13,9 @@
 		
 <script src="../bootstrap/js/jquery.min.js"></script>
 <script src="../bootstrap/js/bootstrap.min.js"></script>
-
-<script src="../DataTables/datatables.min.js"></script>
-
-<script type="text/javascript">
- $(document).ready(function(){
-     $('#dataTables').DataTable();
- });
+<script src="../bootstrap/js/dataTables.bootstrap.min.js"></script>
+<script src="../bootstrap/js/jquery.dataTables.js"></script>
+<script src="../bootstrap/js/scripts.js"></script>
 
 </script>
 </body>
