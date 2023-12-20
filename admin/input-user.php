@@ -4,14 +4,7 @@
     header("location:../login.php");
   }
 ?>
-<!doctype HTML>
-<html>
-<head>
-    <title>Form Input User</title>
-
-<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
+<?php include "header.php"; ?>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -38,8 +31,4 @@
         </div>
     </div>
 
-<script src="../bootstrap/js/jquery.min.js"></script>
-<script src="../bootstrap/js/bootstrap.min.js"></script>
-
-</body>
-</html>
+    <?php include "footer.php";?>

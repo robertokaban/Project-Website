@@ -7,6 +7,7 @@
   <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="../bootstrap/css/dataTables.bootstrap.min.css" rel="stylesheet">
   <link href="../bootstrap/css/styles.css" rel="stylesheet">
+  <script src="../bootstrap/plugins/ckeditor/ckeditor.js"></script>
   <style>
     body {
       padding-top: 60px;
@@ -36,7 +37,10 @@
 							<a href="tampil-mahasiswa.php"><span class="glyphicon glyphicon-user"></span> Mahasiswa</a>
 						</li>
             <li>
-							<a href="tampil-dosen.php"><span class="glyphicon glyphicon-user"></span> Dosen</a>
+							<a href="contact.php"><span class="glyphicon glyphicon-user"></span> Kritik dan Saran</a>
+						</li>
+            <li>
+							<a href="tampil-berita.php"><span class="glyphicon glyphicon-user"></span> Berita</a>
 						</li>
             <li>
 							<a href="tampil-user.php"><span class="glyphicon glyphicon-registration-mark"></span> User</a>
