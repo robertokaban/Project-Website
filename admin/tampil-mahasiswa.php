@@ -69,7 +69,6 @@
 
         include "../koneksi.php";
         $sql=$koneksi->query("select * from mahasiswa order by nim ASC");
-
         while($row= $sql->fetch_assoc()){
         ?>
 

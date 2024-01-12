@@ -37,6 +37,9 @@
 							<a href="tampil-mahasiswa.php"><span class="glyphicon glyphicon-user"></span> Mahasiswa</a>
 						</li>
             <li>
+							<a href="tampil-nilai.php"><span class="glyphicon glyphicon-user"></span> Nilai</a>
+						</li>
+            <li>
 							<a href="contact.php"><span class="glyphicon glyphicon-user"></span> Kritik dan Saran</a>
 						</li>
             <li>

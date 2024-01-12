@@ -51,9 +51,6 @@
 								<li><a href="#">Akuntansi</a></li>
 							</ul>
 						</li>
-            <li>
-							<a href="berita.php"><span class="glyphicon glyphicon-picture"></span> Berita</a>
-						</li>
 						<li>
 							<a href="galeri.php"><span class="glyphicon glyphicon-picture"></span> Galeri</a>
 						</li>
