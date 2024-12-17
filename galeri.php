@@ -61,6 +61,7 @@
                         Seminar Nasional tentang pemanfaatan sosial media sebagai sarana pemasaran produk yang disampaikan oleh <b>Chris Benoit</b>, pakar sosial media terkemuka, akan dilaksanakan pada 3 Maret 2017.
                     </p>
                     <p>
+						
                         Untuk informasi biaya dan tempat pelaksanaan, silakan klik link di bawah: <br/>
                         <a class="btn btn-danger btn-xs" href="ruang_kelas.html" role="button">Info Seminar</a>
                     </p>
@@ -77,7 +78,7 @@
                         <li>Ruang Auditorium dan Kelas</li>
                     </ul>
                     <h5>Lokasi Kampus:</h5>
-                    <p>Institut Teknologi dan Bisnis Indonesia Jalan Sei Batang Hari No. 3 & 4 Medan, Sumatera Utara(0627) 2520097 stt@poliprofesi.ac.id</p>
+                    <p>Jl. Teknologi No. 12, Jakarta, Indonesia</p>
                     <a class="btn btn-info btn-xs" href="about.php" role="button">Info Lebih Lanjut</a>
                 </div>
             </div>
