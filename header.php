@@ -41,6 +41,9 @@
             <li>
 							<a href="mahasiswa.php"><span class="glyphicon glyphicon-hand-down"></span> Mahasiswa</a>
 						</li>
+            <li>
+							<a href="mahasiswa.php"><span class="glyphicon glyphicon-hand-down"></span>Daftar</a>
+						</li>
 						<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-tasks"></span> Jurusan <span class="caret"></span>
 						</a>
