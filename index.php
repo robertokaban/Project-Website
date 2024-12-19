@@ -13,7 +13,7 @@
           <img src="images/gambar_1.jpg" alt="Berisi keterangan gambar">
           <div class="carousel-caption">
             <h1>Institut Teknologi dan Bisnis Indonesia</h1>
-            <h4>Kuliah unggul</h4>
+            <h4>Kuliah unggul dan berkualitas</h4>
             <p>Institut Teknologi dan Bisnis Indonesia Jalan Sei Batang Hari No. 3 & 4 Medan, Sumatera Utara(0627) 2520097 stt@poliprofesi.ac.id</p>
             <a href="detail_slider1.php" class="btn btn-danger">Baca Lebih Lanjut</a>
           </div>
