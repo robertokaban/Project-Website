@@ -7,7 +7,7 @@
 			<div class="col-md-8"><!-- Awal Kolom Pertama -->
 			<div class="panel panel-default">
 				<div class="panel-body">
-				<h2 style="text-muted"><span class="glyphicon glyphicon-list"></span> Data Mahasiswa</h2>
+				<h2 class="text-muted"><span class="glyphicon glyphicon-list"></span> Data Mahasiswa</h2>
 					<table class="table table-bordered table-hover" id="data-table">
 						<thead>
 						<tr>
@@ -20,7 +20,7 @@
 						</thead>
 						<?php
 
-						include "koneksi.php";
+						include "konek.php";
 						$sql=$koneksi->query("select * from mahasiswa order by nim ASC");
 
 						while($row= $sql->fetch_assoc()){
@@ -43,10 +43,10 @@
 			<div class="col-md-4"><!-- Awal kolom kedua -->
 			<div class="panel panel-default">
 				<div class="panel-body">
-				<h2 style="text-muted"><span class="glyphicon glyphicon-tasks"></span>Info Lainnya</h2>
+				<h2 class="text-muted"><span class="glyphicon glyphicon-tasks"></span>Info Lainnya</h2>
 				<h4>Seminar Nasional</h4>
 				<img src="images/chris8.jpg" class="img-thumbnail img-responsive">
-				<p>Seminar Nasional tentang pemanfaatan sosial media sebagai sarana pemasaran produk yang disampaikan oleh <b>Chris Benoit</b> pakar sosial media terkemuka akan dilakasanakan pada 3 Maret 2017. Untuk Informasi biaya dan tempat pelaksaanaan silakan klik link dibawa<br/><a class="btn btn-danger btn-xs" href="ruang_kelas.html"role="button">Info Seminar</a></p>
+				<p>Seminar Nasional tentang pemanfaatan sosial media sebagai sarana pemasaran produk yang disampaikan oleh <b>Chris Benoit</b> pakar sosial media terkemuka akan dilakasanakan pada 3 Maret 2017. Untuk Informasi biaya dan tempat pelaksaanaan silakan klik link dibawa<br/><a class="btn btn-danger btn-xs" href="seminar.php"role="button">Info Seminar</a></p>
 				</div>
       </div>
 			</div><!-- Akhir Kolom Kedua -->
