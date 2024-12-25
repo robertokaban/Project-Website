@@ -45,10 +45,12 @@
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-tasks"></span> Jurusan <span class="caret"></span>
 						</a>
 							<ul class="dropdown-menu">
-								<li><a href="informatika.php">Teknik Informatika</a></li>
+								<li><a href="informatika.php">Teknik Informatika</a><
 								<li><a href="manajemen-informatika.php">Manajemen Informatika</a></li>
 								<li><a href="teknik-electro.php">Teknik Elektro</a></li>
 								<li><a href="akuntansi.php">Akuntansi</a></li>
+
+							
 							</ul>
 						</li>
 						<li>
