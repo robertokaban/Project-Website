@@ -54,7 +54,7 @@
             <div class="deskripsi">
                 <h2>Nama Juara</h2>
                 <p>Nama: Rara Ayu Lestari</p>
-                <p>Umur: 22 Tahun</p>
+                <p>Umur: 25 Tahun</p>
                 <p>Asal: Jakarta</p>
                 <p>Deskripsi: Foto selfie ini berhasil menangkap momen yang sangat spesial dan menunjukkan kreativitas yang tinggi.</p>
             </div>
