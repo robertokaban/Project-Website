@@ -114,12 +114,12 @@
 					<div class="col-md-4">
 					<h3>JUARA ROBOTIKA INTERNASIONAL</h3>
 						<img src="images/gambar4.jpg" class="img-thumbnail img-responsive">
-						<p>Pada 2018 Institut Teknologi dan Bisnis Indonesia mengalahkan ratusan perguruan tinggi dalam lomba robotika Internasional.<br/><a class="btn btn-warning btn-xs" href="internet_cafe.php"role="button">Selengkapnya</a></p>
+						<p>Pada 2018 Institut Teknologi dan Bisnis Indonesia mengalahkan ratusan perguruan tinggi dalam lomba robotika Internasional.<br/><a class="btn btn-warning btn-xs" href="juara.php"role="button">Selengkapnya</a></p>
 					</div>
 					<div class="col-md-4">
 					<h3>JUARA LOMBA SELFIE TINGKAT NASIONAL</h3>
 						<img src="images/prestasi-2.jpg" class="img-thumbnail img-responsive">
-						<p>Dengan formasi muka lugu nan ndeso, mahasiswa Institut Teknologi dan Bisnis Indonesia medan menjadi juaraa selfi tingkat nasional.<br/><a class="btn btn-warning btn-xs" href="internet_cafe.php"role="button">Selengkapnya</a></p>
+						<p>Dengan formasi muka lugu nan ndeso, mahasiswa Institut Teknologi dan Bisnis Indonesia medan menjadi juaraa selfi tingkat nasional.<br/><a class="btn btn-warning btn-xs" href="juara1.php"role="button">Selengkapnya</a></p>
 					</div>
 					<div class="col-md-4">
 					<h3>JUARA MENDESIGN PESAWAT NASA</h3>
